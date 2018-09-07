@@ -5,9 +5,9 @@ How many female are there in the set?
 
 How many are over 30 years old?
 
-How many from denmark?
+How many from Denmark?
 
-How many did attend OL in category: Tug-Of-War?
+How many did attend OL in sport: Tug-Of-War?
 
 How many did attend OL in barcelona?
 
