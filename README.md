@@ -16,7 +16,7 @@ Reserve data sæt:
 
 https://www.kaggle.com/rounakbanik/the-movies-dataset#credits.csv
 
-How man movie are rate adult?
+How many movie are rated adult?
 
 How many movies are listed as animation? 
 
