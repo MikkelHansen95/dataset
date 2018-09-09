@@ -1,5 +1,7 @@
-# Data sæt for gruppen 'Plain Product'
-# Lene (cph-ls283), Mikkel H.(cph-mh643), Gert (cph-gm50), Devran (cph-dc63)
+# Data sæt for gruppen 'Plain Product'.
+# Gruppe medlemmer:
+# Lene (cph-ls283), Mikkel H.(cph-mh643)
+# Gert (cph-gm50), Devran (cph-dc63)
 
 # Primær data sæt:
 
