@@ -13,7 +13,7 @@ How many movies are listed as animation?
 
 Which movie had the highest budget? 
 
-Which german movie is most popular? 
+Which danish movie is most popular? 
 
 Which english action movie had the biggest revene? 
 
