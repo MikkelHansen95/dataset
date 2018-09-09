@@ -1,9 +1,8 @@
 # Data sæt for gruppen 'Plain Product'.
 # Gruppe medlemmer:
-# Lene (cph-ls283), Mikkel H.(cph-mh643)
-# Gert (cph-gm50), Devran (cph-dc63)
+# Lene (cph-ls283), Mikkel H.(cph-mh643), Gert (cph-gm50), Devran (cph-dc63)
 
-# Primær data sæt:
+# Primære data sæt:
 
 https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
 
