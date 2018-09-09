@@ -5,7 +5,7 @@
 
 # Primær data sæt:
 
-https://www.kaggle.com/rounakbanik/the-movies-dataset#credits.csv
+https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
 
 How many movie are rated adult?
 
