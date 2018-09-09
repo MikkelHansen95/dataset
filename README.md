@@ -17,3 +17,11 @@ Reserve data sæt:
 https://www.kaggle.com/rounakbanik/the-movies-dataset#credits.csv
 
 How man movie are rate adult?
+
+How many movies are listed as animation? 
+
+Which movie had the highest budget? 
+
+Which german movie is most popular? 
+
+Which english action movie had the biggest revene? 
