@@ -14,7 +14,7 @@ Which movie had the highest budget?
 
 Which danish movie is most popular? 
 
-Which english action movie had the biggest revene? 
+Which english action movie had the biggest revenue? 
 
 
 # Reserve data sæt:
