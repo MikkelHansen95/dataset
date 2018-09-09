@@ -27,7 +27,7 @@ How many athletes are from Denmark?
 
 How many athletes did attend OL in sport: Tug-Of-War?
 
-How many athletes did attend OL in barcelona?
+How many female athletes did attend OL in barcelona?
 
 # Gruppe medlemmer: 
 # Lene (cph-ls283), Mikkel H.(cph-mh643), 
