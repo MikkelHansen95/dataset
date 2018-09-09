@@ -12,4 +12,8 @@ How many did attend OL in sport: Tug-Of-War?
 How many did attend OL in barcelona?
 
 
+Reserve data sæt:
 
+https://www.kaggle.com/rounakbanik/the-movies-dataset#credits.csv
+
+How man movie are rate adult?
