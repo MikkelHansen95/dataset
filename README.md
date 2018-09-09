@@ -29,5 +29,6 @@ How many athletes did attend OL in sport: Tug-Of-War?
 
 How many athletes did attend OL in barcelona?
 
-# Gruppe medlemmer: Lene (cph-ls283), Mikkel H.(cph-mh643), Gert (cph-gm50), Devran (cph-dc63)
+# Gruppe medlemmer: 
+# Lene (cph-ls283), Mikkel H.(cph-mh643), Gert (cph-gm50), Devran (cph-dc63)
 ![Teamwork](https://github.com/MikkelHansen95/dataset/blob/master/teamwork.gif)
