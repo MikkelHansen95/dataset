@@ -2,6 +2,8 @@
 
 # Primære data sæt:
 
+Datasæt med informationer om forskellige film så som titel, original-sprog, indtjening osv.
+
 https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
 
 How many movie are rated adult?
@@ -16,6 +18,9 @@ Which english action movie had the biggest revenue?
 
 
 # Reserve data sæt:
+
+Datasæt med historiske informationer omkring de olympiske lege. Deltagende atleter, medaljefordeling,
+deltagende nationer osv.
 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
