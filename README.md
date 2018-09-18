@@ -28,6 +28,10 @@ deltagende nationer osv.
 
 https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results
 
+### Link til download af datasæt:
+
+https://raw.githubusercontent.com/MikkelHansen95/dataset/master/athlete_events.csv
+
 How many female are there in the set?
 
 How many are athletes are over 30 years old?
