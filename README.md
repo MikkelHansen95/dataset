@@ -6,6 +6,10 @@ Datasæt med informationer om forskellige film så som titel, original-sprog, in
 
 https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
 
+### Link til download af datasæt:
+
+https://raw.githubusercontent.com/MikkelHansen95/dataset/master/movies_metadata.csv
+
 How many movie are rated adult?
 
 How many movies are listed as animation? 
