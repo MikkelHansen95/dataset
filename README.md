@@ -10,6 +10,8 @@ https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
 
 https://raw.githubusercontent.com/MikkelHansen95/dataset/master/movies_metadata.csv
 
+### Spørgsmål til datasæt:
+
 How many movie are rated adult?
 
 How many movies are listed as animation? 
@@ -31,6 +33,9 @@ https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-result
 ### Link til download af datasæt:
 
 https://raw.githubusercontent.com/MikkelHansen95/dataset/master/athlete_events.csv
+
+
+### Spørgsmål til datasæt:
 
 How many female are there in the set?
 
