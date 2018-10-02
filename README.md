@@ -26,6 +26,8 @@ Plot histogram with number of movies according to release day for 'adult' and 'n
 
 * x-axis: release date (day/month)
 * y-axis: number of movies
+![Pic6](https://github.com/MikkelHansen95/dataset/blob/master/6.jpg)
+
 
 Scatter-Plot with runtime as y value and release date as x value.
 
