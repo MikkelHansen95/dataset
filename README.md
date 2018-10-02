@@ -22,7 +22,7 @@ Which danish movie is most popular?
 
 Which english action movie had the biggest revenue? 
 
-Plot histogram with number of movies per day in year for 'adult' and 'non adult' movies.
+Plot histogram with number of movies according to release for 'adult' and 'non adult' movies.
 
 Scatter-Plot with runtime as y value and release date as x value.
 
