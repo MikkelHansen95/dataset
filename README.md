@@ -33,6 +33,7 @@ Scatter-Plot with runtime as y value and release date as x value.
 
 * x-axis: runtime
 * y-axis: relase date (day/month)
+![Pic7](https://github.com/MikkelHansen95/dataset/blob/master/7.jpg)
 
 3D Scatter-Plot with the word frequency for each movie out of the 100 most used 'buzzwords' from all movies overviews
 (Firstly find 100 most used 'buzzwords' and then find the frequency of these words in each movies overview) 
@@ -40,6 +41,7 @@ Scatter-Plot with runtime as y value and release date as x value.
 * x-axis: revenue
 * y-axis: budget
 * z-axis: buzzword count
+![Pic8](https://github.com/MikkelHansen95/dataset/blob/master/8.jpg)
 
 # Reserve data sæt:
 
